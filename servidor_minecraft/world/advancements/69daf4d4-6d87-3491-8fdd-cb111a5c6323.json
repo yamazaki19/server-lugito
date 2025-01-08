@@ -7882,6 +7882,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-08 23:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-08 23:36:02 +0000"
@@ -7909,6 +7915,12 @@
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-08 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-08 23:39:40 +0000"
     },
     "done": true
   },
