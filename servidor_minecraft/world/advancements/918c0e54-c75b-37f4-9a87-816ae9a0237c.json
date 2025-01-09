@@ -80,6 +80,7 @@
       "minecraft:deep_cold_ocean": "2025-01-09 19:33:16 +0000",
       "minecraft:frozen_ocean": "2025-01-09 19:47:47 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-09 19:48:21 +0000",
+      "minecraft:windswept_forest": "2025-01-09 20:36:01 +0000",
       "minecraft:jungle": "2025-01-03 18:53:10 +0000",
       "minecraft:ocean": "2025-01-03 23:36:21 +0000",
       "minecraft:flower_forest": "2024-12-29 16:46:38 +0000",
@@ -108,6 +109,7 @@
       "wetland": "2025-01-04 01:27:50 +0000",
       "clover_patch": "2025-01-04 18:19:03 +0000",
       "old_growth_woodland": "2025-01-02 21:51:37 +0000",
+      "maple_woods": "2025-01-09 20:24:02 +0000",
       "field": "2025-01-04 01:27:42 +0000",
       "orchard": "2025-01-04 18:06:01 +0000",
       "lavender_forest": "2025-01-02 22:05:35 +0000",
@@ -128,10 +130,12 @@
       "volcanic_plains": "2025-01-03 19:58:07 +0000",
       "lavender_field": "2025-01-03 20:24:21 +0000",
       "fir_clearing": "2025-01-09 19:27:19 +0000",
+      "pumpkin_patch": "2025-01-09 20:24:16 +0000",
       "grassland": "2025-01-02 22:03:50 +0000",
       "prairie": "2025-01-03 20:23:16 +0000",
       "snowy_coniferous_forest": "2025-01-09 19:46:50 +0000",
       "snowy_fir_clearing": "2025-01-09 19:45:00 +0000",
+      "glowing_grotto": "2025-01-09 20:17:59 +0000",
       "undergrowth": "2025-01-03 03:22:33 +0000",
       "rainforest": "2025-01-03 20:01:49 +0000",
       "snowy_maple_woods": "2025-01-09 19:45:39 +0000"
@@ -2255,12 +2259,15 @@
       "minecraft:pillager": "2025-01-09 19:51:42 +0000",
       "minecraft:skeleton": "2025-01-03 16:47:25 +0000",
       "minecraft:hoglin": "2025-01-03 03:01:23 +0000",
+      "minecraft:vindicator": "2025-01-09 20:30:57 +0000",
       "minecraft:spider": "2025-01-02 20:47:44 +0000",
       "minecraft:creeper": "2025-01-02 21:49:14 +0000",
+      "minecraft:evoker": "2025-01-09 20:30:59 +0000",
       "minecraft:zombified_piglin": "2025-01-03 03:10:35 +0000",
       "minecraft:witch": "2025-01-03 20:42:41 +0000",
       "minecraft:piglin": "2025-01-03 03:10:51 +0000",
       "minecraft:enderman": "2025-01-03 03:17:27 +0000",
+      "minecraft:vex": "2025-01-09 20:32:59 +0000",
       "minecraft:zombie": "2025-01-03 00:54:47 +0000"
     },
     "done": false
@@ -8261,69 +8268,21 @@
     },
     "done": true
   },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-01-09 19:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-09 19:48:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2025-01-09 19:51:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-09 19:52:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 19:52:01 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/esca": {
-    "criteria": {
-      "has_item": "2025-01-09 19:58:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_esca": {
-    "criteria": {
-      "esca": "2025-01-09 19:58:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-01-09 19:52:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
+      "has_snowball": "2025-01-09 19:48:11 +0000"
     },
     "done": true
   },
@@ -8333,9 +8292,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "aquamirae:adventure/obtain_fin": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-09 19:52:44 +0000"
+      "fin": "2025-01-09 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-01-09 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-09 19:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 19:52:01 +0000"
     },
     "done": true
   },
@@ -8345,15 +8322,51 @@
     },
     "done": true
   },
-  "aquamirae:recipes/wisteria_niveis": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_item": "2025-01-09 19:48:10 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-01-09 19:52:44 +0000"
     },
     "done": true
   },
-  "aquamirae:recipes/fin": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_item": "2025-01-09 19:51:01 +0000"
+      "has_smithing_trim_template": "2025-01-09 19:52:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-01-09 19:58:45 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-01-09 19:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 20:01:18 +0000"
     },
     "done": true
   },
@@ -8369,9 +8382,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
-      "has_snowball": "2025-01-09 19:48:11 +0000"
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-01-09 20:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-09 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 20:51:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-01-09 20:49:21 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut": {
+    "criteria": {
+      "customtrigger": "2025-01-09 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/ruby_dust_from_gem": {
+    "criteria": {
+      "has_ruby_gem": "2025-01-09 21:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
     },
     "done": true
   },
