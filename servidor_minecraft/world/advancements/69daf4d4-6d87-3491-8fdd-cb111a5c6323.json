@@ -69,6 +69,7 @@
       "minecraft:stony_shore": "2025-01-03 19:24:51 +0000",
       "minecraft:dripstone_caves": "2025-01-03 18:08:50 +0000",
       "minecraft:swamp": "2025-01-04 01:28:24 +0000",
+      "minecraft:cold_ocean": "2025-01-09 19:15:17 +0000",
       "minecraft:forest": "2024-12-28 19:39:51 +0000",
       "minecraft:lush_caves": "2025-01-03 19:45:32 +0000",
       "minecraft:jungle": "2025-01-03 19:22:45 +0000",
@@ -2610,6 +2611,7 @@
       "lavender_forest": "2025-01-03 18:06:28 +0000",
       "moor": "2025-01-03 20:11:09 +0000",
       "mediterranean_forest": "2025-01-03 18:06:49 +0000",
+      "coniferous_forest": "2025-01-09 19:14:56 +0000",
       "spider_nest": "2025-01-04 01:33:27 +0000",
       "visceral_heap": "2025-01-03 02:54:47 +0000",
       "dune_beach": "2025-01-04 01:15:38 +0000",
@@ -3740,6 +3742,7 @@
       "minecraft:creeper": "2025-01-04 01:12:24 +0000",
       "minecraft:phantom": "2025-01-03 01:30:48 +0000",
       "minecraft:zombified_piglin": "2025-01-03 17:06:49 +0000",
+      "minecraft:witch": "2025-01-09 19:11:25 +0000",
       "minecraft:cave_spider": "2025-01-03 18:14:36 +0000",
       "minecraft:piglin": "2025-01-03 16:58:22 +0000",
       "minecraft:enderman": "2025-01-03 01:31:52 +0000",
@@ -7954,6 +7957,24 @@
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-01-08 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-09 19:19:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-09 19:19:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-09 19:19:48 +0000"
     },
     "done": true
   },

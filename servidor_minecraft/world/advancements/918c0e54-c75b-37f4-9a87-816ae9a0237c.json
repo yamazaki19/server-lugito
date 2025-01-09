@@ -7955,12 +7955,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
-    "criteria": {
-      "has_bottles": "2025-01-09 00:55:55 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-09 00:53:05 +0000"
@@ -7976,6 +7970,30 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
     },
     "done": true
   },
@@ -8039,12 +8057,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
     "criteria": {
       "has_bottles": "2025-01-09 00:55:55 +0000"
@@ -8063,12 +8075,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
     "criteria": {
       "has_bottles": "2025-01-09 00:55:55 +0000"
@@ -8081,15 +8087,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-01-09 00:53:05 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
     "criteria": {
       "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-01-09 19:17:48 +0000"
     },
     "done": true
   },
