@@ -55,9 +55,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-01-09 19:34:47 +0000",
       "minecraft:cherry_grove": "2025-01-03 20:29:14 +0000",
       "minecraft:sunflower_plains": "2025-01-03 20:29:07 +0000",
       "minecraft:birch_forest": "2025-01-02 22:05:27 +0000",
+      "minecraft:windswept_hills": "2025-01-09 19:38:57 +0000",
       "minecraft:savanna_plateau": "2024-12-29 18:35:21 +0000",
       "minecraft:beach": "2025-01-03 23:36:16 +0000",
       "minecraft:stony_peaks": "2024-12-29 18:35:24 +0000",
@@ -66,10 +68,14 @@
       "minecraft:river": "2025-01-02 20:51:54 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 19:40:30 +0000",
       "minecraft:stony_shore": "2025-01-03 19:27:56 +0000",
+      "minecraft:snowy_plains": "2025-01-09 19:34:53 +0000",
       "minecraft:dripstone_caves": "2025-01-02 22:02:51 +0000",
+      "minecraft:snowy_taiga": "2025-01-09 19:34:37 +0000",
       "minecraft:swamp": "2025-01-04 01:27:51 +0000",
       "minecraft:jagged_peaks": "2025-01-03 16:44:17 +0000",
+      "minecraft:cold_ocean": "2025-01-09 19:32:48 +0000",
       "minecraft:forest": "2024-12-29 18:35:51 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-09 19:33:16 +0000",
       "minecraft:jungle": "2025-01-03 18:53:10 +0000",
       "minecraft:ocean": "2025-01-03 23:36:21 +0000",
       "minecraft:flower_forest": "2024-12-29 16:46:38 +0000",
@@ -8098,6 +8104,150 @@
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-01-09 19:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_brown": {
+    "criteria": {
+      "has_wool": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-01-09 19:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-01-09 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood1": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 19:36:47 +0000"
     },
     "done": true
   },
