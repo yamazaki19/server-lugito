@@ -280,7 +280,8 @@
       "bread": "2024-12-28 19:29:55 +0000",
       "rotten_flesh": "2025-01-03 03:13:18 +0000",
       "cooked_chicken": "2025-01-03 17:15:54 +0000",
-      "mushroom_stew": "2025-01-03 17:24:55 +0000"
+      "mushroom_stew": "2025-01-03 17:24:55 +0000",
+      "cooked_salmon": "2025-01-09 19:09:26 +0000"
     },
     "done": false
   },
@@ -2605,6 +2606,7 @@
       "wetland": "2025-01-04 01:28:21 +0000",
       "old_growth_woodland": "2024-12-28 19:39:43 +0000",
       "field": "2025-01-04 01:28:12 +0000",
+      "orchard": "2025-01-09 19:04:31 +0000",
       "lavender_forest": "2025-01-03 18:06:28 +0000",
       "moor": "2025-01-03 20:11:09 +0000",
       "mediterranean_forest": "2025-01-03 18:06:49 +0000",
@@ -3730,8 +3732,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-09 19:04:52 +0000",
       "minecraft:skeleton": "2024-12-28 20:06:39 +0000",
       "minecraft:ghast": "2025-01-03 17:04:14 +0000",
+      "minecraft:vindicator": "2025-01-09 19:06:20 +0000",
       "minecraft:spider": "2024-12-28 20:06:55 +0000",
       "minecraft:creeper": "2025-01-04 01:12:24 +0000",
       "minecraft:phantom": "2025-01-03 01:30:48 +0000",
