@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-09 19:46:54 +0000",
       "minecraft:frozen_river": "2025-01-09 19:34:47 +0000",
       "minecraft:cherry_grove": "2025-01-03 20:29:14 +0000",
       "minecraft:sunflower_plains": "2025-01-03 20:29:07 +0000",
@@ -76,6 +77,8 @@
       "minecraft:cold_ocean": "2025-01-09 19:32:48 +0000",
       "minecraft:forest": "2024-12-29 18:35:51 +0000",
       "minecraft:deep_cold_ocean": "2025-01-09 19:33:16 +0000",
+      "minecraft:frozen_ocean": "2025-01-09 19:47:47 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-09 19:48:21 +0000",
       "minecraft:jungle": "2025-01-03 18:53:10 +0000",
       "minecraft:ocean": "2025-01-03 23:36:21 +0000",
       "minecraft:flower_forest": "2024-12-29 16:46:38 +0000",
@@ -111,11 +114,13 @@
       "mediterranean_forest": "2025-01-02 21:51:06 +0000",
       "coniferous_forest": "2025-01-09 19:25:12 +0000",
       "spider_nest": "2025-01-02 22:03:24 +0000",
+      "old_growth_dead_forest": "2025-01-09 19:46:22 +0000",
       "redwood_forest": "2025-01-04 18:05:56 +0000",
       "visceral_heap": "2025-01-03 02:54:31 +0000",
       "seasonal_orchard": "2025-01-03 20:31:46 +0000",
       "dune_beach": "2025-01-03 23:50:12 +0000",
       "seasonal_forest": "2025-01-03 20:30:12 +0000",
+      "dead_forest": "2025-01-09 19:46:41 +0000",
       "volcano": "2025-01-03 19:58:05 +0000",
       "rocky_rainforest": "2025-01-02 22:03:19 +0000",
       "pasture": "2025-01-03 20:24:20 +0000",
@@ -124,8 +129,11 @@
       "fir_clearing": "2025-01-09 19:27:19 +0000",
       "grassland": "2025-01-02 22:03:50 +0000",
       "prairie": "2025-01-03 20:23:16 +0000",
+      "snowy_coniferous_forest": "2025-01-09 19:46:50 +0000",
+      "snowy_fir_clearing": "2025-01-09 19:45:00 +0000",
       "undergrowth": "2025-01-03 03:22:33 +0000",
-      "rainforest": "2025-01-03 20:01:49 +0000"
+      "rainforest": "2025-01-03 20:01:49 +0000",
+      "snowy_maple_woods": "2025-01-09 19:45:39 +0000"
     },
     "done": false
   },
@@ -2243,6 +2251,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-09 19:51:42 +0000",
       "minecraft:skeleton": "2025-01-03 16:47:25 +0000",
       "minecraft:hoglin": "2025-01-03 03:01:23 +0000",
       "minecraft:spider": "2025-01-02 20:47:44 +0000",
@@ -8248,6 +8257,60 @@
   "vampirism:recipes/misc/hunter/pure_blood1": {
     "criteria": {
       "has_pure_blood": "2025-01-09 19:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-09 19:48:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-01-09 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-09 19:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 19:52:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-09 19:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 19:52:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-01-09 19:48:10 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-01-09 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-09 19:48:11 +0000"
     },
     "done": true
   },
