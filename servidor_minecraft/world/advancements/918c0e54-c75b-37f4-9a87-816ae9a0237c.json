@@ -7955,5 +7955,143 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/regeneration_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/swiftness_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/strength_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/evasion_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/teleport_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-09 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
+    "criteria": {
+      "has_bottles": "2025-01-09 00:55:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

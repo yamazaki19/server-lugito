@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "918c0e54-c75b-37f4-9a87-816ae9a0237c",
+    "name": "yamazaki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "69daf4d4-6d87-3491-8fdd-cb111a5c6323",
     "name": "iLG4",
     "level": 4,
