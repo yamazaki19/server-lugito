@@ -138,7 +138,8 @@
       "glowing_grotto": "2025-01-09 20:17:59 +0000",
       "undergrowth": "2025-01-03 03:22:33 +0000",
       "rainforest": "2025-01-03 20:01:49 +0000",
-      "snowy_maple_woods": "2025-01-09 19:45:39 +0000"
+      "snowy_maple_woods": "2025-01-09 19:45:39 +0000",
+      "crag": "2025-01-09 23:01:53 +0000"
     },
     "done": false
   },
@@ -8382,6 +8383,36 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-01-09 20:49:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-01-09 20:51:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-01-09 20:51:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-09 20:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
@@ -8442,12 +8473,6 @@
     },
     "done": true
   },
-  "vampirism:main/regicide": {
-    "criteria": {
-      "main": "2025-01-09 20:51:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
@@ -8472,12 +8497,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 20:52:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
@@ -8490,21 +8509,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_spruce_planks": {
-    "criteria": {
-      "has_log": "2025-01-09 20:52:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/hunter/pure_blood0": {
-    "criteria": {
-      "has_pure_blood": "2025-01-09 20:51:56 +0000"
     },
     "done": true
   },
@@ -8526,15 +8533,9 @@
     },
     "done": true
   },
-  "vampirism:main/vampire_forest": {
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
-      "main": "2025-01-09 20:49:21 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/judgement_cut": {
-    "criteria": {
-      "customtrigger": "2025-01-09 21:19:14 +0000"
+      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
     },
     "done": true
   },
@@ -8544,9 +8545,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+  "slashblade:arts/judgement_cut": {
     "criteria": {
-      "has_cobbled_dark_stone": "2025-01-09 20:57:16 +0000"
+      "customtrigger": "2025-01-09 21:19:14 +0000"
     },
     "done": true
   },
