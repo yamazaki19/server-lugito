@@ -2259,6 +2259,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-09 19:51:42 +0000",
       "minecraft:skeleton": "2025-01-03 16:47:25 +0000",
+      "minecraft:ravager": "2025-01-09 23:12:04 +0000",
       "minecraft:hoglin": "2025-01-03 03:01:23 +0000",
       "minecraft:vindicator": "2025-01-09 20:30:57 +0000",
       "minecraft:spider": "2025-01-02 20:47:44 +0000",
@@ -2269,7 +2270,8 @@
       "minecraft:piglin": "2025-01-03 03:10:51 +0000",
       "minecraft:enderman": "2025-01-03 03:17:27 +0000",
       "minecraft:vex": "2025-01-09 20:32:59 +0000",
-      "minecraft:zombie": "2025-01-03 00:54:47 +0000"
+      "minecraft:zombie": "2025-01-03 00:54:47 +0000",
+      "minecraft:zombie_villager": "2025-01-09 23:11:59 +0000"
     },
     "done": false
   },
@@ -8548,6 +8550,12 @@
   "slashblade:arts/judgement_cut": {
     "criteria": {
       "customtrigger": "2025-01-09 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-09 23:05:28 +0000"
     },
     "done": true
   },
