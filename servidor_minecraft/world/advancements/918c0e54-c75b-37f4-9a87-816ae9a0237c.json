@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-09 20:00:54 +0000",
       "minecraft:taiga": "2025-01-09 19:46:54 +0000",
+      "minecraft:deep_ocean": "2025-01-10 03:05:25 +0000",
       "minecraft:frozen_river": "2025-01-09 19:34:47 +0000",
       "minecraft:cherry_grove": "2025-01-03 20:29:14 +0000",
       "minecraft:sunflower_plains": "2025-01-03 20:29:07 +0000",
@@ -83,6 +84,7 @@
       "minecraft:windswept_forest": "2025-01-09 20:36:01 +0000",
       "minecraft:jungle": "2025-01-03 18:53:10 +0000",
       "minecraft:ocean": "2025-01-03 23:36:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-10 02:57:23 +0000",
       "minecraft:flower_forest": "2024-12-29 16:46:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 18:15:03 +0000",
       "minecraft:deep_dark": "2025-01-03 02:27:27 +0000",
@@ -104,12 +106,15 @@
       "shrubland": "2024-12-29 16:44:58 +0000",
       "rocky_shrubland": "2025-01-03 18:06:21 +0000",
       "scrubland": "2024-12-29 18:35:59 +0000",
+      "erupting_inferno": "2025-01-10 02:27:57 +0000",
       "highland": "2025-01-02 22:01:09 +0000",
       "jade_cliffs": "2025-01-04 17:24:01 +0000",
       "wetland": "2025-01-04 01:27:50 +0000",
       "clover_patch": "2025-01-04 18:19:03 +0000",
       "old_growth_woodland": "2025-01-02 21:51:37 +0000",
       "maple_woods": "2025-01-09 20:24:02 +0000",
+      "crystalline_chasm": "2025-01-10 02:10:01 +0000",
+      "withered_abyss": "2025-01-10 02:20:18 +0000",
       "field": "2025-01-04 01:27:42 +0000",
       "orchard": "2025-01-04 18:06:01 +0000",
       "lavender_forest": "2025-01-02 22:05:35 +0000",
@@ -2263,10 +2268,12 @@
       "minecraft:hoglin": "2025-01-03 03:01:23 +0000",
       "minecraft:vindicator": "2025-01-09 20:30:57 +0000",
       "minecraft:spider": "2025-01-02 20:47:44 +0000",
+      "minecraft:piglin_brute": "2025-01-10 02:25:44 +0000",
       "minecraft:creeper": "2025-01-02 21:49:14 +0000",
       "minecraft:evoker": "2025-01-09 20:30:59 +0000",
       "minecraft:zombified_piglin": "2025-01-03 03:10:35 +0000",
       "minecraft:witch": "2025-01-03 20:42:41 +0000",
+      "minecraft:wither_skeleton": "2025-01-10 02:22:11 +0000",
       "minecraft:piglin": "2025-01-03 03:10:51 +0000",
       "minecraft:enderman": "2025-01-03 03:17:27 +0000",
       "minecraft:vex": "2025-01-09 20:32:59 +0000",
@@ -3323,6 +3330,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-01-03 21:15:17 +0000",
+      "golden_apple": "2025-01-10 01:39:26 +0000",
       "rotten_flesh": "2025-01-03 00:59:42 +0000",
       "enchanted_golden_apple": "2025-01-03 02:18:47 +0000"
     },
@@ -4112,10 +4120,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 02:59:52 +0000",
       "minecraft:nether_wastes": "2025-01-03 02:53:03 +0000",
+      "minecraft:soul_sand_valley": "2025-01-10 02:10:03 +0000",
       "minecraft:warped_forest": "2025-01-03 02:54:32 +0000",
       "minecraft:basalt_deltas": "2025-01-03 18:00:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
@@ -8553,21 +8562,21 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/magic_lamp_empty": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-09 23:41:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-09 23:05:28 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_diamond_backpack": "2025-01-10 00:20:35 +0000"
+      "hero_of_the_village": "2025-01-09 23:15:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-09 23:41:01 +0000"
     },
     "done": true
   },
@@ -8589,21 +8598,189 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
-    "criteria": {
-      "has_steel_ingot": "2025-01-10 00:13:46 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/building_blocks/crafting/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-01-09 23:41:01 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
     "criteria": {
-      "hero_of_the_village": "2025-01-09 23:15:52 +0000"
+      "has_steel_ingot": "2025-01-10 00:13:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-10 00:20:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-10 01:30:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-01-10 01:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-10 01:40:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-01-10 02:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-10 02:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-10 02:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-10 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-10 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-10 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-10 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-10 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-01-10 22:56:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-10 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-01-10 22:57:40 +0000"
     },
     "done": true
   },

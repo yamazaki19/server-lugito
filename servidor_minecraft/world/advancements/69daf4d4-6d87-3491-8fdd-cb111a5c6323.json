@@ -2614,9 +2614,11 @@
       "shrubland": "2024-12-28 19:50:06 +0000",
       "rocky_shrubland": "2025-01-04 00:51:52 +0000",
       "scrubland": "2024-12-28 19:35:14 +0000",
+      "erupting_inferno": "2025-01-10 02:28:27 +0000",
       "highland": "2025-01-03 20:03:13 +0000",
       "wetland": "2025-01-04 01:28:21 +0000",
       "old_growth_woodland": "2024-12-28 19:39:43 +0000",
+      "withered_abyss": "2025-01-10 02:20:29 +0000",
       "field": "2025-01-04 01:28:12 +0000",
       "orchard": "2025-01-09 19:04:31 +0000",
       "lavender_forest": "2025-01-03 18:06:28 +0000",
@@ -2634,6 +2636,7 @@
       "fir_clearing": "2025-01-09 19:26:54 +0000",
       "prairie": "2024-12-29 01:44:25 +0000",
       "grassland": "2025-01-03 20:03:19 +0000",
+      "glowing_grotto": "2025-01-10 03:09:27 +0000",
       "undergrowth": "2025-01-03 18:37:22 +0000"
     },
     "done": false
@@ -3748,13 +3751,16 @@
     "criteria": {
       "minecraft:pillager": "2025-01-09 19:04:52 +0000",
       "minecraft:skeleton": "2024-12-28 20:06:39 +0000",
+      "minecraft:ravager": "2025-01-10 01:33:49 +0000",
       "minecraft:ghast": "2025-01-03 17:04:14 +0000",
       "minecraft:vindicator": "2025-01-09 19:06:20 +0000",
       "minecraft:spider": "2024-12-28 20:06:55 +0000",
+      "minecraft:piglin_brute": "2025-01-10 02:22:52 +0000",
       "minecraft:creeper": "2025-01-04 01:12:24 +0000",
       "minecraft:phantom": "2025-01-03 01:30:48 +0000",
       "minecraft:zombified_piglin": "2025-01-03 17:06:49 +0000",
       "minecraft:witch": "2025-01-09 19:11:25 +0000",
+      "minecraft:wither_skeleton": "2025-01-10 02:25:02 +0000",
       "minecraft:cave_spider": "2025-01-03 18:14:36 +0000",
       "minecraft:piglin": "2025-01-03 16:58:22 +0000",
       "minecraft:enderman": "2025-01-03 01:31:52 +0000",
@@ -8503,6 +8509,168 @@
   "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
     "criteria": {
       "has_ring": "2025-01-10 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-10 01:31:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-01-10 01:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-10 01:31:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-01-10 01:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-10 01:33:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-01-10 01:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-10 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-10 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-01-10 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-10 02:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-10 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-10 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-01-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-10 02:31:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-10 02:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-10 03:17:02 +0000"
     },
     "done": true
   },
