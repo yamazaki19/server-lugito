@@ -8776,9 +8776,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-01-11 03:37:33 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/food/warped_moldy_meat": {
     "criteria": {
       "has_sirloin": "2025-01-11 04:02:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-11 04:05:47 +0000"
     },
     "done": true
   },
@@ -8788,15 +8800,111 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_dead_bush": "2025-01-11 03:37:33 +0000"
+      "has_sand": "2025-01-11 20:14:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "vinery:recipes/fermentation_barrel": {
     "criteria": {
-      "has_campfire": "2025-01-11 04:05:47 +0000"
+      "has_barrel": "2025-01-11 20:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-11 20:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-11 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-11 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-11 20:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-11 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-11 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-01-11 20:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-11 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-11 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
     },
     "done": true
   },
