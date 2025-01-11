@@ -3768,6 +3768,7 @@
       "minecraft:cave_spider": "2025-01-03 18:14:36 +0000",
       "minecraft:piglin": "2025-01-03 16:58:22 +0000",
       "minecraft:enderman": "2025-01-03 01:31:52 +0000",
+      "minecraft:vex": "2025-01-11 02:48:04 +0000",
       "minecraft:zombie": "2024-12-28 20:17:28 +0000",
       "minecraft:drowned": "2025-01-09 18:39:24 +0000",
       "minecraft:zombie_villager": "2025-01-11 00:21:33 +0000"
@@ -8733,15 +8734,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-11 02:27:40 +0000"
+      "enchanted_item": "2025-01-11 01:39:15 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_glow_berries": "2025-01-11 02:30:51 +0000"
+      "has_smithing_trim_template": "2025-01-11 02:27:40 +0000"
     },
     "done": true
   },
@@ -8751,9 +8752,9 @@
     },
     "done": true
   },
-  "vinery:recipes/grass_slab": {
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
-      "has_grass_block": "2025-01-11 02:36:44 +0000"
+      "has_glow_berries": "2025-01-11 02:30:51 +0000"
     },
     "done": true
   },
@@ -8763,9 +8764,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "vinery:recipes/grass_slab": {
     "criteria": {
-      "enchanted_item": "2025-01-11 01:39:15 +0000"
+      "has_grass_block": "2025-01-11 02:36:44 +0000"
     },
     "done": true
   },
