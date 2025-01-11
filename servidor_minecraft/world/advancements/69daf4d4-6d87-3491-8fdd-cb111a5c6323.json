@@ -292,6 +292,7 @@
       "bread": "2024-12-28 19:29:55 +0000",
       "golden_apple": "2025-01-11 02:15:15 +0000",
       "rotten_flesh": "2025-01-03 03:13:18 +0000",
+      "glow_berries": "2025-01-11 02:30:54 +0000",
       "cooked_chicken": "2025-01-03 17:15:54 +0000",
       "mushroom_stew": "2025-01-03 17:24:55 +0000",
       "cooked_salmon": "2025-01-09 19:09:26 +0000"
@@ -8729,6 +8730,36 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-11 01:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-01-11 02:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-01-11 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-01-11 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-11 02:30:51 +0000"
     },
     "done": true
   },

@@ -3332,6 +3332,7 @@
       "apple": "2025-01-03 21:15:17 +0000",
       "golden_apple": "2025-01-10 01:39:26 +0000",
       "rotten_flesh": "2025-01-03 00:59:42 +0000",
+      "glow_berries": "2025-01-11 02:30:44 +0000",
       "enchanted_golden_apple": "2025-01-03 02:18:47 +0000"
     },
     "done": false
@@ -9129,6 +9130,18 @@
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-01-11 02:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-01-11 02:27:34 +0000"
     },
     "done": true
   },
