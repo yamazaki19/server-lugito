@@ -8776,5 +8776,29 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2025-01-11 04:02:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-11 04:05:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-01-11 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-11 04:05:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
