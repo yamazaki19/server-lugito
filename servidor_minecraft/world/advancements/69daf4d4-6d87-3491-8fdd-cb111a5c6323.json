@@ -67,6 +67,7 @@
       "minecraft:beach": "2025-01-09 00:55:57 +0000",
       "minecraft:stony_peaks": "2024-12-28 19:25:05 +0000",
       "minecraft:dark_forest": "2025-01-03 20:03:12 +0000",
+      "minecraft:mangrove_swamp": "2025-01-12 00:12:59 +0000",
       "minecraft:sparse_jungle": "2025-01-03 19:22:01 +0000",
       "minecraft:river": "2024-12-28 19:40:16 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 19:46:18 +0000",
@@ -293,6 +294,7 @@
       "golden_apple": "2025-01-11 02:15:15 +0000",
       "rotten_flesh": "2025-01-03 03:13:18 +0000",
       "glow_berries": "2025-01-11 02:30:54 +0000",
+      "melon_slice": "2025-01-12 00:06:24 +0000",
       "cooked_chicken": "2025-01-03 17:15:54 +0000",
       "mushroom_stew": "2025-01-03 17:24:55 +0000",
       "cooked_salmon": "2025-01-09 19:09:26 +0000"
@@ -2616,6 +2618,7 @@
       "shrubland": "2024-12-28 19:50:06 +0000",
       "rocky_shrubland": "2025-01-04 00:51:52 +0000",
       "scrubland": "2024-12-28 19:35:14 +0000",
+      "bayou": "2025-01-12 00:11:15 +0000",
       "erupting_inferno": "2025-01-10 02:28:27 +0000",
       "highland": "2025-01-03 20:03:13 +0000",
       "jade_cliffs": "2025-01-11 20:57:44 +0000",
@@ -8810,9 +8813,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "vinery:recipes/fermentation_barrel": {
     "criteria": {
-      "has_emerald_block": "2025-01-11 20:41:42 +0000"
+      "has_barrel": "2025-01-11 20:30:36 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-01-11 20:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-11 20:31:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-11 20:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-11 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-11 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-11 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-11 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-11 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-11 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
     },
     "done": true
   },
@@ -8852,39 +8951,9 @@
     },
     "done": true
   },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-01-11 20:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-11 20:31:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-11 20:31:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-11 20:35:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-11 20:31:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
     },
     "done": true
   },
@@ -8894,27 +8963,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-11 20:31:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 20:35:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
-    "criteria": {
-      "has_writable_book": "2025-01-11 20:46:41 +0000"
     },
     "done": true
   },
@@ -8927,30 +8978,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-11 20:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-11 20:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-11 20:31:49 +0000"
     },
     "done": true
   },
@@ -8978,18 +9005,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-01-11 20:31:52 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/hanging_pot": {
-    "criteria": {
-      "obtain": "2025-01-11 20:30:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-11 20:35:53 +0000"
@@ -8999,12 +9014,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 20:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-11 20:31:33 +0000"
     },
     "done": true
   },
@@ -9044,18 +9053,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-11 20:31:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-01-11 20:31:41 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-01-11 20:35:53 +0000"
@@ -9074,9 +9071,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-11 20:31:20 +0000"
+      "has_emerald_block": "2025-01-11 20:41:42 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2025-01-11 20:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-12 00:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-12 00:05:26 +0000"
     },
     "done": true
   },
