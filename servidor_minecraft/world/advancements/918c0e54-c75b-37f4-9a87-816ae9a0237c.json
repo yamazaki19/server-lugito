@@ -2271,6 +2271,7 @@
       "minecraft:piglin_brute": "2025-01-10 02:25:44 +0000",
       "minecraft:creeper": "2025-01-02 21:49:14 +0000",
       "minecraft:evoker": "2025-01-09 20:30:59 +0000",
+      "minecraft:phantom": "2025-01-13 00:09:03 +0000",
       "minecraft:zombified_piglin": "2025-01-03 03:10:35 +0000",
       "minecraft:witch": "2025-01-03 20:42:41 +0000",
       "minecraft:wither_skeleton": "2025-01-10 02:22:11 +0000",
@@ -9305,6 +9306,12 @@
   "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
     "criteria": {
       "has_heart_seeker": "2025-01-12 23:39:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-13 00:09:37 +0000"
     },
     "done": true
   },
