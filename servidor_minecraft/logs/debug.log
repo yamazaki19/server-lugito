@@ -7308,3 +7308,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 19:24:55.233] [Server thread/ERROR] [Easy NPC/]: Unable to find valid owner null for HumanoidSlim['entity.easy_npc.humanoid_slim'/124, l='ServerLevel[world]', x=163.31, y=90.00, z=-26.70] with ObjectiveData [id=FOLLOW_OWNER, type=FOLLOW_OWNER, priority=6, targetPlayerName=null, targetEntityUUID=null, targetOwnerUUID=c15390f6-9a1a-4a64-86f3-de1b2e0ed49f, isRegistered=false, speedModifier=0.7, startDistance=16.0, stopDistance=2.0, onlyAtNight=false, distanceToPoi=16, canDealWithDoors=de.markusbordihn.easynpc.data.objective.ObjectiveDataEntry$$Lambda/0x0000799b2280b590@4b2cdb1c, lookDistance=15.0, attackInterval=20, attackRadius=8.0, interval=10, mustSeeTarget=true, probability=1.0]!
 [13Jan2025 19:29:41.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 19:29:41.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:34:41.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 19:34:41.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:39:40.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 19:39:40.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:42:00.079] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[13Jan2025 19:42:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2025 19:42:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2025 19:42:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2025 19:42:00.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jan2025 19:42:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jan2025 19:42:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[13Jan2025 19:42:05.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[13Jan2025 19:42:05.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jan2025 19:42:05.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 19:42:05.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:42:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jan2025 19:42:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2025 19:42:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[13Jan2025 19:42:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[13Jan2025 19:42:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2025 19:42:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jan2025 19:42:06.243] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jan2025 19:42:06.256] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Jan2025 19:42:06.263] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Jan2025 19:42:06.264] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Jan2025 19:42:06.279] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
