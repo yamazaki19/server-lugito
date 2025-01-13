@@ -6952,12 +6952,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-01-03 20:40:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-01-03 20:40:48 +0000"
