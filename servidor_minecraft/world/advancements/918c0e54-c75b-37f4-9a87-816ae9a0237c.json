@@ -9296,6 +9296,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-01-12 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-01-12 23:39:01 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/white_grape_bag": {
     "criteria": {
       "has_white_grape": "2025-01-12 22:46:07 +0000"
