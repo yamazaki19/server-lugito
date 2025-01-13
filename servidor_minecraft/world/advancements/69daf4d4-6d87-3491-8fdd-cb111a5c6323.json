@@ -2625,6 +2625,7 @@
       "wetland": "2025-01-04 01:28:21 +0000",
       "clover_patch": "2025-01-10 23:53:01 +0000",
       "old_growth_woodland": "2024-12-28 19:39:43 +0000",
+      "maple_woods": "2025-01-13 03:38:10 +0000",
       "withered_abyss": "2025-01-10 02:20:29 +0000",
       "field": "2025-01-04 01:28:12 +0000",
       "orchard": "2025-01-09 19:04:31 +0000",
@@ -7169,13 +7170,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "faction": "2025-01-12 01:03:50 +0000",
-      "kill": "2025-01-12 01:21:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-01-03 18:11:37 +0000"
@@ -9120,23 +9114,23 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-01-12 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_brick_slab": "2025-01-12 00:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:02:56 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/become_hunter": {
-    "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
-    },
-    "done": true
-  },
-  "vampirism:hunter/technology": {
-    "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -9150,27 +9144,9 @@
     },
     "done": true
   },
-  "vampirism:hunter/kill_resurrected_vampire": {
-    "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/max_lord": {
-    "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-12 02:44:11 +0000"
     },
     "done": true
   },
@@ -9192,18 +9168,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-12 03:04:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-12 02:44:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:02:56 +0000"
@@ -9216,29 +9180,11 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
-    "criteria": {
-      "has_dark_stone_brick_slab": "2025-01-12 00:55:39 +0000"
-    },
-    "done": true
-  },
-  "slashblade:tips/bladestand": {
-    "criteria": {
-      "getitem2": "2025-01-12 02:19:26 +0000"
-    },
-    "done": true
-  },
   "bakery:recipes/jar": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:02:56 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/cure_vampire_villager": {
-    "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -9282,21 +9228,9 @@
     },
     "done": true
   },
-  "vampirism:main/vampire_forest": {
-    "criteria": {
-      "main": "2025-01-12 00:52:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2025-01-12 03:04:14 +0000"
     },
     "done": true
   },
@@ -9312,17 +9246,319 @@
     },
     "done": true
   },
-  "vampirism:hunter/stake": {
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2025-01-12 01:03:50 +0000",
+      "kill": "2025-01-12 01:21:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
     "criteria": {
       "main": "2025-01-12 01:03:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2025-01-13 03:23:53 +0000"
     },
     "done": false
   },
-  "vampirism:hunter/kill_mother": {
+  "vampirism:hunter/kill_resurrected_vampire": {
     "criteria": {
-      "main": "2025-01-12 01:03:50 +0000"
+      "main": "2025-01-13 03:23:53 +0000"
     },
     "done": false
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2025-01-13 03:23:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2025-01-13 03:23:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2025-01-13 03:23:53 +0000",
+      "flower": "2025-01-13 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2025-01-13 03:23:53 +0000"
+    },
+    "done": false
+  },
+  "slashblade:tips/bladestand": {
+    "criteria": {
+      "getitem2": "2025-01-12 02:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-12 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-12 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-01-12 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-12 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-01-13 03:31:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-01-13 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-01-13 03:37:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-13 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_double_crossbow": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2025-01-13 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:28:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:23:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/enhanced_double_crossbow": {
+    "criteria": {
+      "has_skill": "2025-01-13 04:37:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
