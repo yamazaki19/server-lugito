@@ -9564,6 +9564,12 @@
     },
     "done": true
   },
+  "vampirism:minion/defend_area": {
+    "criteria": {
+      "task": "2025-01-14 03:03:30 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2025-01-14 02:24:54 +0000"

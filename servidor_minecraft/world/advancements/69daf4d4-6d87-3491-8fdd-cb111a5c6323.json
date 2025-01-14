@@ -9533,6 +9533,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/dark_pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2025-01-14 01:38:58 +0000"
@@ -9562,9 +9568,21 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/dark_pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sweet_dough": {
     "criteria": {
       "has_sugar": "2025-01-14 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_axe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
     },
     "done": true
   },
@@ -9586,9 +9604,21 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/dark_pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cake_dough": {
     "criteria": {
       "has_sugar": "2025-01-14 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
     },
     "done": true
   },
@@ -9601,6 +9631,30 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-14 03:00:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2025-01-14 03:26:20 +0000"
+    },
+    "done": false
+  },
+  "werewolves:recipes/misc/silver_hoe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
     },
     "done": true
   },
@@ -9634,9 +9688,33 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/stone_altar_fire_bowl": {
+    "criteria": {
+      "has_planks": "2025-01-14 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-01-14 03:17:43 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "has_iron": "2025-01-14 01:15:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2025-01-14 03:26:20 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_pickaxe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
     },
     "done": true
   },
@@ -9670,6 +9748,18 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/silver_shovel": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
@@ -9679,6 +9769,18 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-01-14 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-01-14 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
     },
     "done": true
   },
@@ -9694,6 +9796,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/silver_sword": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-01-14 01:29:20 +0000"
@@ -9703,6 +9811,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
     },
     "done": true
   },
