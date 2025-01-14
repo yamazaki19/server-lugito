@@ -63,6 +63,7 @@
       "minecraft:sunflower_plains": "2025-01-09 00:46:52 +0000",
       "minecraft:birch_forest": "2025-01-03 18:07:57 +0000",
       "minecraft:windswept_hills": "2025-01-09 19:35:37 +0000",
+      "minecraft:bamboo_jungle": "2025-01-14 01:37:34 +0000",
       "minecraft:savanna_plateau": "2024-12-28 19:25:26 +0000",
       "minecraft:beach": "2025-01-09 00:55:57 +0000",
       "minecraft:stony_peaks": "2024-12-28 19:25:05 +0000",
@@ -9530,11 +9531,59 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-01-14 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-14 01:41:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
   "werewolves:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-01-14 01:23:42 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
   },
   "werewolves:recipes/transportation/magic_boat": {
     "criteria": {
@@ -9548,9 +9597,57 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-01-14 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:44:57 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-01-14 01:29:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-14 01:41:49 +0000"
     },
     "done": true
   },

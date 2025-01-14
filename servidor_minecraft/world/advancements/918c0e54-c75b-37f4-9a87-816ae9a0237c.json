@@ -9358,15 +9358,27 @@
     },
     "done": true
   },
-  "aquamirae:recipes/spinefish": {
-    "criteria": {
-      "has_item": "2025-01-14 00:17:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-01-13 23:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-13 23:54:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-01-14 00:13:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-01-14 00:13:19 +0000"
     },
     "done": true
   },
@@ -9382,33 +9394,33 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-01-14 00:17:40 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/elodea": {
     "criteria": {
       "has_item": "2025-01-14 00:17:51 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_anglers_fang": {
-    "criteria": {
-      "anglers_fang": "2025-01-14 00:13:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-13 23:54:43 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/anglers_fang": {
-    "criteria": {
-      "has_item": "2025-01-14 00:13:19 +0000"
-    },
-    "done": true
-  },
   "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
       "has_item": "2025-01-14 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:45:57 +0000"
     },
     "done": true
   },
