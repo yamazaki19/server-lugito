@@ -9412,12 +9412,22 @@
     },
     "done": true
   },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-01-14 02:43:00 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_stinger_spear_shrine": "2025-01-14 02:18:42 +0000",
       "in_bee_house": "2025-01-14 02:37:30 +0000",
+      "in_hanging_garden": "2025-01-14 02:48:15 +0000",
       "in_honey_fountain": "2025-01-14 02:36:21 +0000",
+      "in_cannon_range": "2025-01-14 02:44:26 +0000",
+      "in_subway": "2025-01-14 02:50:51 +0000",
       "in_hive_temple": "2025-01-14 02:24:29 +0000",
+      "in_honey_cave_room": "2025-01-14 02:43:08 +0000",
       "in_ancient_hoops": "2025-01-14 02:30:01 +0000",
       "in_overgrown_flower": "2025-01-14 02:27:47 +0000"
     },
@@ -9465,8 +9475,15 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-14 02:46:12 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "pollinated_pillar": "2025-01-14 02:42:40 +0000",
       "crystal_canyon": "2025-01-14 02:25:37 +0000",
       "sugar_water_floor": "2025-01-14 02:19:21 +0000",
       "hive_pillar": "2025-01-14 02:18:03 +0000",
@@ -9484,6 +9501,12 @@
   "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "has_iron": "2025-01-14 01:56:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-01-14 02:46:19 +0000"
     },
     "done": true
   },
@@ -9511,9 +9534,21 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-01-14 02:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-14 02:46:12 +0000"
     },
     "done": true
   },
