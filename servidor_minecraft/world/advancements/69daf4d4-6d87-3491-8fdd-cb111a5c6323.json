@@ -9530,9 +9530,27 @@
     },
     "done": true
   },
+  "werewolves:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 01:23:42 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 01:23:42 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "has_iron": "2025-01-14 01:15:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-14 01:29:20 +0000"
     },
     "done": true
   },
