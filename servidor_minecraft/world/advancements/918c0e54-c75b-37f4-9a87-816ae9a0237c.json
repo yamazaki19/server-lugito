@@ -9412,6 +9412,55 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_stinger_spear_shrine": "2025-01-14 02:18:42 +0000",
+      "in_hive_temple": "2025-01-14 02:24:29 +0000",
+      "in_ancient_hoops": "2025-01-14 02:30:01 +0000",
+      "in_overgrown_flower": "2025-01-14 02:27:47 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_full_blocks": "2025-01-14 02:19:34 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-01-14 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-01-14 02:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-01-14 02:18:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "crystal_canyon": "2025-01-14 02:25:37 +0000",
+      "sugar_water_floor": "2025-01-14 02:19:21 +0000",
+      "hive_pillar": "2025-01-14 02:18:03 +0000",
+      "hive_wall": "2025-01-14 02:19:20 +0000",
+      "pollinated_fields": "2025-01-14 02:17:34 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-01-14 02:17:21 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "has_iron": "2025-01-14 01:56:17 +0000"
@@ -9424,9 +9473,21 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-01-14 02:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
     "criteria": {
       "has_diamond": "2025-01-14 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-01-14 02:24:54 +0000"
     },
     "done": true
   },
