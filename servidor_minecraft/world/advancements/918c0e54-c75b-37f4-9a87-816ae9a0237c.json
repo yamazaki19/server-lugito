@@ -9364,9 +9364,33 @@
     },
     "done": true
   },
+  "werewolves:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 00:13:22 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 00:13:22 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-01-14 00:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-01-13 23:54:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-01-14 00:13:19 +0000"
     },
     "done": true
   },
