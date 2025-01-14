@@ -2639,6 +2639,7 @@
       "visceral_heap": "2025-01-03 02:54:47 +0000",
       "seasonal_orchard": "2025-01-11 20:53:41 +0000",
       "dune_beach": "2025-01-04 01:15:38 +0000",
+      "seasonal_forest": "2025-01-14 02:07:54 +0000",
       "volcano": "2025-01-03 19:58:24 +0000",
       "rocky_rainforest": "2025-01-03 20:01:26 +0000",
       "pasture": "2025-01-09 00:59:12 +0000",
@@ -9543,9 +9544,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-01-14 01:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
     },
     "done": true
   },
@@ -9574,6 +9599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-01-14 01:38:58 +0000"
@@ -9595,6 +9626,12 @@
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-01-14 01:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
     },
     "done": true
   },
