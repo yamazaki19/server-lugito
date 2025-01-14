@@ -9582,5 +9582,17 @@
     },
     "done": true
   },
+  "vampirism:minion/protect_lord": {
+    "criteria": {
+      "task": "2025-01-14 22:40:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:minion/collect_blood": {
+    "criteria": {
+      "task": "2025-01-14 22:48:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
