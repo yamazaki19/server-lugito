@@ -9415,6 +9415,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_stinger_spear_shrine": "2025-01-14 02:18:42 +0000",
+      "in_bee_house": "2025-01-14 02:37:30 +0000",
+      "in_honey_fountain": "2025-01-14 02:36:21 +0000",
       "in_hive_temple": "2025-01-14 02:24:29 +0000",
       "in_ancient_hoops": "2025-01-14 02:30:01 +0000",
       "in_overgrown_flower": "2025-01-14 02:27:47 +0000"
@@ -9433,6 +9435,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
     "criteria": {
       "has_heart_striker": "2025-01-14 02:16:44 +0000"
@@ -9442,6 +9450,18 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-01-14 02:18:06 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-14 02:32:38 +0000"
     },
     "done": true
   },
@@ -9479,6 +9499,30 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-14 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-01-14 02:40:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
     "criteria": {
       "has_diamond": "2025-01-14 01:45:57 +0000"
@@ -9488,6 +9532,12 @@
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2025-01-14 02:24:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-01-14 02:33:37 +0000"
     },
     "done": true
   },
