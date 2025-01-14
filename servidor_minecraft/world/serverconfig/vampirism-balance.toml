@@ -50,7 +50,7 @@
 		awarenessCooldown = 1
 		#Squared distance as of which a disguised hunter is invisible. Modified by godly_vampirism
 		#Range: > 1
-		disguiseInvisibleSQ = 256
+		disguiseInvisibleSQ = 128
 
 	[balance.vampirePlayer]
 		#The amount of natural armor toughness a max level vampire has
@@ -60,7 +60,7 @@
 		sunscreenBuff = false
 		#Multiply fire damage with this for vampires. Modified by godly_vampirism
 		#Range: 0.1 ~ 1.7976931348623157E308
-		fireVulnerabilityMod = 3.0
+		fireVulnerabilityMod = 1.5
 		#Range: > 1
 		sundamageWeaknessMinLevel = 2
 		#Disable vampire night vision
@@ -74,7 +74,7 @@
 		#Range: > 1
 		sundamageNauseaMinLevel = 3
 		#Weather a vampire player that receives sundamage should also receive a nausea effect. Modified by godly_vampirism
-		sundamageNausea = true
+		sundamageNausea = false
 		#Range: 0.3 ~ 10.0
 		playerBloodSaturation = 1.5
 		#Whether vampires are instantly turned into ash when being in the sun
@@ -84,25 +84,25 @@
 		naturalArmorBaseValue = 10
 		#Base duration of neonatal effect after resurrection. In sec.. Modified by godly_vampirism
 		#Range: > 1
-		neonatalDuration = 120
+		neonatalDuration = 2
 		#The amount of natural armor a max level vampire has in addition to the base value
 		#Range: 0 ~ 100
 		naturalArmorIncrease = 10
 		#Defines the maximum extend the yellow border covers when the player is in the sun. 100 is default. 0 to disable completely. Modified by godly_vampirism
 		#Range: 0 ~ 100
-		maxYellowBorderPercentage = 100
+		maxYellowBorderPercentage = 15
 		#Disable vampire blood vision
 		bloodVisionDisabled = false
 		#null. Modified by godly_vampirism
 		#Range: 0.5 ~ 40.0
-		healthMaxMod = 16.0
+		healthMaxMod = 20.0
 		#Range: 0.0 ~ 2.0
 		attackSpeedMaxMod = 0.15
 		#Whether vampire have a reduced speed and attack boost when wearing heavy armor
 		armorPenalty = true
 		#Blood exhaustion is multiplied with this value. Modified by godly_vampirism
 		#Range: 0.0 ~ 5.0
-		bloodExhaustionFactor = 0.7
+		bloodExhaustionFactor = 0.3
 		#Range: > 1
 		sundamageMinLevel = 4
 		#Range: 0.0 ~ 5.0
@@ -110,19 +110,19 @@
 		#List of damage source types that the player does not die from (immediately)
 		immortalFromDamageSources = ["player", "mob", "drown", "lightningBolt", "onFire", "cramming", "fall", "flyIntoWall", "magic", "wither", "anvil", "falling_block", "dragon_breath", "sweetBerryBush", "trident", "arrow", "fireworks", "fireBall", "witherSkull", "explosion", "explosion.player", "thrown", "indirectMagic", "vampire_on_fire", "sting", "fallingStalactite", "stalagmite", "freeze"]
 		#Whether to replace the vanilla fire resistance potion for vampires with a custom one that only reduces damage but does not remove it. Modified by godly_vampirism
-		fireResistanceReplace = true
+		fireResistanceReplace = false
 		#null. Modified by godly_vampirism
 		#Range: 1.0 ~ 1.7976931348623157E308
-		sundamage = 7.0
+		sundamage = 1.0
 		#Base cooldown before a downed vampire can resurrect. In sec.. Modified by godly_vampirism
 		#Range: 1 ~ 1000
-		dbnoDuration = 60
+		dbnoDuration = 30
 		#Average duration of the Sanguinare Vampiris Effect. The final duration is random between 0.5 x avgDuration - 1.5 x avgDuration. In Seconds.
 		#Range: 1 ~ 10000
 		sanguinareAverageDuration = 900
 		#The duration it takes for the vampire natural armor to fully regenerate after respawn. In seconds. Modified by godly_vampirism
 		#Range: 1 ~ 2400
-		naturalArmorRegenDuration = 240
+		naturalArmorRegenDuration = 2
 
 	[balance.entityActions]
 		#In seconds
@@ -192,7 +192,7 @@
 	[balance.vampireSkills]
 		#Blood exhaustion is multiplied with (value+1). Modified by godly_vampirism
 		#Range: -1.0 ~ 0.0
-		bloodThirstReduction1 = -0.4
+		bloodThirstReduction1 = -0.95
 		#Max speed is multiplied with (value+1)
 		#Range: 0.0 ~ 3.0
 		speedBoost = 0.15
@@ -257,13 +257,13 @@
 		deathRecoveryTime = 220
 		#How many minions a player can have per lord level. Probably don't want to go very high. Modified by godly_vampirism
 		#Range: 0 ~ 100
-		minionPerLordLevel = 1
+		minionPerLordLevel = 2
 		#Cooldown in ticks,before new resources are added in collect resource task types
 		#Range: > 20
 		resourceCooldown = 1500
 		#How much the equipments should be repaired on minion resource tasks. Modified by godly_vampirism
 		#Range: > 1
-		equipmentRepairAmount = 10
+		equipmentRepairAmount = 20
 		#Cooldown multiplier for collect resource task types while player is offline
 		#Range: 1.0 ~ 100000.0
 		resourceCooldownOfflineMult = 20.0
@@ -274,7 +274,7 @@
 		vampireSwordChargingFactor = 5.0E-4
 		#Damage a normal holy water splash bottle does when directly hitting a vampire. Modified by godly_vampirism
 		#Range: > 0
-		holyWaterSplashDamage = 5
+		holyWaterSplashDamage = 7
 		#Duration of the blindness effect caused by special holy water (ticks)
 		#Range: 0 ~ 1000
 		holyWaterBlindnessDuration = 160
@@ -297,23 +297,23 @@
 		#Whether creepers should ignore vampires
 		creeperIgnoreVampire = true
 		#Whether special crossbow arrows (e.g. spitfire) can be used with infinity enchantment. Modified by godly_vampirism
-		allowInfiniteSpecialArrows = false
+		allowInfiniteSpecialArrows = true
 		#Delay in seconds before a newly placed garlic diffuser becomes active. *0.25 in Singleplayer
 		#Range: 1 ~ 10000
 		garlicDiffuserStartupTime = 100
 		#Holy water damage is multiplied with this value for each tier above normal. Modified by godly_vampirism
 		#Range: 1.0 ~ 10.0
-		holyWaterTierDamageInc = 2.0
+		holyWaterTierDamageInc = 3.0
 		#Whether skeletons should ignore vampires
 		skeletonIgnoreVampire = true
 		#If the sanguinare effect can be canceled by milk
 		canCancelSanguinare = true
 		#Players receive n skill points for each level-up. Anything except 2 is unbalanced, but to unlock all skills on maxlevel this value should be set to skill-amount/(max-level - 1). Modified by godly_vampirism
 		#Range: 1.0 ~ 20.0
-		skillPointsPerLevel = 2.0
+		skillPointsPerLevel = 3.0
 		#Players receive n skill points for each lord level-up. Anything except 2 is unbalanced, but to unlock all skills on max lord level this value should be set to skill-amount/(max-level - 1). Modified by godly_vampirism
 		#Range: 1.0 ~ 20.0
-		skillPointsPerLordLevel = 2.0
+		skillPointsPerLordLevel = 3.0
 		#Duration a task can be completed in a singleplayer world. In Minutes
 		#Range: > 1
 		taskDurationSinglePlayer = 120
@@ -325,7 +325,7 @@
 		holyWaterNauseaDuration = 200
 		#The vampire killer arrow can only instant kill NPC vampires that have a max (not actual) health of this. Modified by godly_vampirism
 		#Range: > 1
-		arrowVampireKillerMaxHealth = 40
+		arrowVampireKillerMaxHealth = 80
 		#Maximum number of hunters that can spawn at one tent per day
 		#Range: 0 ~ 20
 		hunterTentMaxSpawn = 4
@@ -333,7 +333,7 @@
 	[balance.hunterSkills]
 		#Advanced skill - Weapon cooldown = 1/(oldvalue*(1+modifier). Modified by godly_vampirism
 		#Range: 0.0 ~ 3.0
-		majorAttackSpeedModifier = 0.4
+		majorAttackSpeedModifier = 0.7
 		#Second stake skill - Whether only NPCs can be one hit killed with this skill
 		instantKill2OnlyNPC = true
 		#The chunk radius a enhanced diffusor affects. 0 results in a one chunk area. Changing this only affects newly placed blocks
@@ -416,7 +416,7 @@
 		batAllowInteraction = false
 		#In seconds. Modified by godly_vampirism
 		#Range: > 1
-		teleportCooldown = 10
+		teleportCooldown = 1
 		rageEnabled = true
 		hissingEnabled = true
 		freezeEnabled = true
@@ -446,10 +446,10 @@
 		batEnabled = true
 		#In seconds. Increase per vampire level. Modified by godly_vampirism
 		#Range: 0 ~ 1000
-		rageDurationIncrease = 5
+		rageDurationIncrease = 10
 		#null. Modified by godly_vampirism
 		#Range: 1 ~ 1000
-		teleportMaxDistance = 50
+		teleportMaxDistance = 150
 		#In seconds
 		#Range: 1 ~ 10000
 		summonBatsCooldown = 300
