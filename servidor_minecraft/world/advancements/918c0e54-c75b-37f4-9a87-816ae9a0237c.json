@@ -9412,6 +9412,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
+    "criteria": {
+      "has_iron": "2025-01-14 01:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
     "criteria": {
       "has_diamond": "2025-01-14 01:45:57 +0000"

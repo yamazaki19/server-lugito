@@ -9531,41 +9531,17 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
-  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2025-01-14 01:38:58 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/first_blood": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-01-14 01:41:49 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
   },
   "werewolves:recipes/transportation/jacaranda_boat": {
     "criteria": {
@@ -9575,15 +9551,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-01-14 01:50:56 +0000",
       "main": "2025-01-14 01:43:01 +0000"
     },
-    "done": false
-  },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
+    "done": true
   },
   "werewolves:recipes/transportation/magic_boat": {
     "criteria": {
@@ -9597,29 +9568,11 @@
     },
     "done": true
   },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
     "criteria": {
       "has_diamond": "2025-01-14 01:44:57 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": false
   },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
