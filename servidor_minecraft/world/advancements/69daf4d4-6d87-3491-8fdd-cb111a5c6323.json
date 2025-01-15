@@ -3779,6 +3779,7 @@
       "minecraft:piglin": "2025-01-03 16:58:22 +0000",
       "minecraft:enderman": "2025-01-03 01:31:52 +0000",
       "minecraft:stray": "2025-01-14 02:14:01 +0000",
+      "minecraft:silverfish": "2025-01-15 03:13:15 +0000",
       "minecraft:vex": "2025-01-11 02:48:04 +0000",
       "minecraft:zombie": "2024-12-28 20:17:28 +0000",
       "minecraft:drowned": "2025-01-09 18:39:24 +0000",
@@ -9533,9 +9534,27 @@
     },
     "done": true
   },
-  "werewolves:recipes/combat/dark_pelt_boots": {
+  "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
-      "has_pelt": "2025-01-14 03:20:26 +0000"
+      "has_iron": "2025-01-14 01:15:51 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 01:23:42 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 01:23:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-14 01:29:20 +0000"
     },
     "done": true
   },
@@ -9545,16 +9564,11 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_all_structures": {
+  "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
-      "in_stinger_spear_shrine": "2025-01-14 02:18:52 +0000",
-      "in_bee_house": "2025-01-14 02:37:29 +0000",
-      "in_honey_fountain": "2025-01-14 02:36:28 +0000",
-      "in_hive_temple": "2025-01-14 02:24:01 +0000",
-      "in_ancient_hoops": "2025-01-14 02:29:15 +0000",
-      "in_overgrown_flower": "2025-01-14 02:28:52 +0000"
+      "has_calcite_corner_trim": "2025-01-14 01:38:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
@@ -9562,27 +9576,40 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-14 01:41:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "resurrected": "2025-01-14 01:50:56 +0000",
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-01-14 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-01-14 01:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/dark_pelt_helmet": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:20:26 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-01-14 02:27:35 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/silver_axe": {
-    "criteria": {
-      "has_sticks": "2025-01-14 02:58:41 +0000"
     },
     "done": true
   },
@@ -9598,76 +9625,27 @@
     },
     "done": true
   },
-  "vinery:recipes/red_grape_bag": {
-    "criteria": {
-      "has_red_grape": "2025-01-14 03:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-01-14 02:24:51 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/dark_pelt_leggings": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:20:26 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-01-14 02:27:35 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/pelt_helmet": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:24:07 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2025-01-14 01:23:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
     },
     "done": true
   },
-  "werewolves:recipes/combat/pelt_boots": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_pelt": "2025-01-14 03:24:07 +0000"
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
     },
     "done": true
   },
-  "werewolves:recipes/misc/stone_altar": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_stone_bricks": "2025-01-14 03:00:15 +0000"
+      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
     },
     "done": true
   },
-  "vinery:main/crop_collector": {
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
-      "vinery:red_grape_seeds": "2025-01-14 03:26:20 +0000"
-    },
-    "done": false
-  },
-  "werewolves:recipes/misc/silver_hoe": {
-    "criteria": {
-      "has_sticks": "2025-01-14 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "resurrected": "2025-01-14 01:50:56 +0000",
-      "main": "2025-01-14 01:43:01 +0000"
+      "teleport_to_bumblezone_pearl": "2025-01-14 02:17:49 +0000"
     },
     "done": true
   },
@@ -9682,159 +9660,26 @@
     },
     "done": false
   },
-  "werewolves:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-01-14 01:23:42 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-01-14 02:17:49 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/stone_altar_fire_bowl": {
-    "criteria": {
-      "has_planks": "2025-01-14 02:58:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone": {
-    "criteria": {
-      "has_broken_bone": "2025-01-14 03:17:43 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
-    "criteria": {
-      "has_iron": "2025-01-14 01:15:51 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_crops": {
-    "criteria": {
-      "red_grape_seeds": "2025-01-14 03:26:20 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/silver_pickaxe": {
-    "criteria": {
-      "has_sticks": "2025-01-14 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
-    "criteria": {
-      "has_diamond": "2025-01-14 01:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-01-14 02:21:33 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
     "criteria": {
       "bee_hit_wrath_of_the_hive": "2025-01-14 02:18:22 +0000"
     },
     "done": true
   },
-  "bakery:recipes/dough": {
+  "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "has_sugar": "2025-01-14 02:27:35 +0000"
+      "in_stinger_spear_shrine": "2025-01-14 02:18:52 +0000",
+      "in_bee_house": "2025-01-14 02:37:29 +0000",
+      "in_honey_fountain": "2025-01-14 02:36:28 +0000",
+      "in_hive_temple": "2025-01-14 02:24:01 +0000",
+      "in_ancient_hoops": "2025-01-14 02:29:15 +0000",
+      "in_overgrown_flower": "2025-01-14 02:28:52 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:adventure/honey_block_slide": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "honey_block_slide": "2025-01-14 02:22:02 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/silver_shovel": {
-    "criteria": {
-      "has_sticks": "2025-01-14 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/dark_pelt_chestplate": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_wolfsbane": "2025-01-14 03:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/calcite_corner_trim": {
-    "criteria": {
-      "has_calcite_corner_trim": "2025-01-14 01:38:58 +0000"
-    },
-    "done": true
-  },
-  "beautify:botanist_workbench": {
-    "criteria": {
-      "requirement": "2025-01-14 03:02:23 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/pelt_leggings": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:24:07 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/become_vampire": {
-    "criteria": {
-      "main": "2025-01-14 01:43:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
-    "criteria": {
-      "has_diamond": "2025-01-14 01:44:57 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/misc/silver_sword": {
-    "criteria": {
-      "has_sticks": "2025-01-14 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-01-14 01:29:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-14 02:07:25 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/pelt_chestplate": {
-    "criteria": {
-      "has_pelt": "2025-01-14 03:24:07 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2025-01-14 02:37:49 +0000"
+      "has_honeycomb": "2025-01-14 02:21:33 +0000"
     },
     "done": true
   },
@@ -9844,9 +9689,1125 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+  "minecraft:adventure/honey_block_slide": {
     "criteria": {
-      "has_pickup_upgrade": "2025-01-14 01:41:49 +0000"
+      "honey_block_slide": "2025-01-14 02:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-01-14 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-01-14 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-01-14 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/stone_altar_fire_bowl": {
+    "criteria": {
+      "has_planks": "2025-01-14 02:58:33 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_axe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_hoe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_pickaxe": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_shovel": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/silver_sword": {
+    "criteria": {
+      "has_sticks": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-14 03:00:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-01-14 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-01-14 03:17:43 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-01-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2025-01-14 03:26:20 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2025-01-14 03:26:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2025-01-14 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_wolfsbane": "2025-01-14 03:48:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-01-14 23:31:18 +0000"
+    },
+    "done": true
+  },
+  "theurgy:has_basic_rod": {
+    "criteria": {
+      "has_t1_rod": "2025-01-15 02:07:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/candle": {
+    "criteria": {
+      "has_tallow": "2025-01-15 02:12:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_white_impure": {
+    "criteria": {
+      "has_ashes": "2025-01-15 02:15:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_red_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-15 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_gold_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-15 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_purple_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-01-15 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
+    "criteria": {
+      "has_chalk_white_impure": "2025-01-15 02:17:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
+    "criteria": {
+      "has_sacrificial_bowl": "2025-01-15 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_djinni_from_empty": {
+    "criteria": {
+      "has_empty_binding": "2025-01-15 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot_from_empty": {
+    "criteria": {
+      "has_empty_binding": "2025-01-15 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_marid_from_empty": {
+    "criteria": {
+      "has_empty_binding": "2025-01-15 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit_from_empty": {
+    "criteria": {
+      "has_taboo_book": "2025-01-15 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-15 02:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_bath": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_toilet": {
+    "criteria": {
+      "has_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2025-01-15 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-15 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-15 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-01-15 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-01-15 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-01-15 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-01-15 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-01-15 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-01-15 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-15 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-15 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lenses": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-15 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-15 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/misc/wolfsbane_finder": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-15 02:44:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2025-01-15 02:52:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_lenses": {
+    "criteria": {
+      "craft_infused_lenses": "2025-01-15 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/goggles": {
+    "criteria": {
+      "has_infused_lenses": "2025-01-15 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-15 02:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 03:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 03:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-15 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-01-15 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-01-15 03:15:18 +0000"
     },
     "done": true
   },
