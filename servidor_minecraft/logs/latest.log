@@ -65,3 +65,21 @@
 [16Jan2025 00:08:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iLG4> ya la topmase\
 [16Jan2025 00:08:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iLG4> epa
 [16Jan2025 00:08:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iLG4> ira
+[16Jan2025 00:08:51.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iLG4> toam
+[16Jan2025 00:09:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Duchess] yamazaki> oe manin ahora mas tarde vuelvo
+[16Jan2025 00:09:08.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yamazaki lost connection: Disconnected
+[16Jan2025 00:09:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Duchess] yamazaki left the game
+[16Jan2025 00:09:08.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 918c0e54-c75b-37f4-9a87-816ae9a0237c was unloaded
+[16Jan2025 00:10:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Spectator Mode]
+[16Jan2025 00:10:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Survival Mode]
+[16Jan2025 00:13:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Spectator Mode]
+[16Jan2025 00:13:42.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Survival Mode]
+[16Jan2025 00:13:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLG4 has made the advancement [A Ruined Citadel]
+[16Jan2025 00:17:28.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iLG4 lost connection: Disconnected
+[16Jan2025 00:17:28.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLG4 left the game
+[16Jan2025 00:17:28.957] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 69daf4d4-6d87-3491-8fdd-cb111a5c6323 was unloaded
+[16Jan2025 00:18:26.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64810fa2[id=<null>,name=iLG4,properties={},legacy=false] (/100.93.133.52:51786) lost connection: Disconnected
+[16Jan2025 00:18:36.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iLG4[/100.93.133.52:51788] logged in with entity id 7367 at (-406.0181479102478, 55.0, -2093.5591783589084)
+[16Jan2025 00:18:36.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLG4 joined the game
+[16Jan2025 00:18:36.617] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2255ms or 45 ticks
+[16Jan2025 00:18:37.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 69daf4d4-6d87-3491-8fdd-cb111a5c6323 was loaded
