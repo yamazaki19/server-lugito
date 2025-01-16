@@ -10946,9 +10946,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+  "cataclysm:kill_ender_golem": {
     "criteria": {
-      "has_dye": "2025-01-16 01:04:13 +0000"
+      "endergolem": "2025-01-16 00:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-01-16 00:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-16 00:24:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_purple": {
+    "criteria": {
+      "has_chalk_purple_impure": "2025-01-16 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-01-16 01:00:02 +0000"
     },
     "done": true
   },
@@ -10958,9 +10982,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "has_lily_pad": "2025-01-16 01:00:02 +0000"
+      "has_log": "2025-01-16 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-16 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-16 01:04:13 +0000"
     },
     "done": true
   },
@@ -10976,21 +11012,9 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/iesnium_dust": {
-    "criteria": {
-      "has_iesnium": "2025-01-16 01:08:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-16 01:04:13 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/craft_infused_pickaxe": {
-    "criteria": {
-      "craft_infused_pickaxe": "2025-01-16 01:05:58 +0000"
     },
     "done": true
   },
@@ -11012,27 +11036,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-01-16 00:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-16 01:03:14 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/green_toilet": {
     "criteria": {
       "has_dye": "2025-01-16 01:04:13 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/chalk_purple": {
-    "criteria": {
-      "has_chalk_purple_impure": "2025-01-16 00:55:24 +0000"
     },
     "done": true
   },
@@ -11102,12 +11108,6 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/book_of_calling_djinni_manage_machine": {
-    "criteria": {
-      "has_book_of_binding_bound_djinni": "2025-01-16 01:04:54 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
     "criteria": {
       "has_green_dye": "2025-01-16 01:04:13 +0000"
@@ -11120,27 +11120,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-01-16 00:24:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/green_toilet": {
     "criteria": {
       "has_green_dye": "2025-01-16 01:04:13 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/iesnium_ingot": {
-    "criteria": {
-      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-16 00:24:52 +0000"
     },
     "done": true
   },
@@ -11150,21 +11132,63 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/blasting/iesnium_ingot": {
-    "criteria": {
-      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-16 01:04:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "occultism:recipes/misc/crafting/book_of_calling_djinni_manage_machine": {
     "criteria": {
-      "has_log": "2025-01-16 01:03:14 +0000"
+      "has_book_of_binding_bound_djinni": "2025-01-16 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_pickaxe": {
+    "criteria": {
+      "craft_infused_pickaxe": "2025-01-16 01:05:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iesnium_dust": {
+    "criteria": {
+      "has_iesnium": "2025-01-16 01:08:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iesnium_ingot": {
+    "criteria": {
+      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iesnium_ingot": {
+    "criteria": {
+      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iesnium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iesnium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iesnium_dust_from_raw": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_iesnium_block": {
+    "criteria": {
+      "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
     },
     "done": true
   },

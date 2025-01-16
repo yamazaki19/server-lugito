@@ -3531,3 +3531,11 @@
 [16Jan2025 01:20:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iLG4 joined the game
 [16Jan2025 01:20:14.930] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 69daf4d4-6d87-3491-8fdd-cb111a5c6323 was loaded
 [16Jan2025 01:20:14.931] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2627ms or 52 ticks
+[16Jan2025 01:20:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Spectator Mode]
+[16Jan2025 01:21:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Creative Mode]
+[16Jan2025 01:21:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Survival Mode]
+[16Jan2025 01:26:20.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=18, z=162} BlockPos{x=-293, y=19, z=162}
+[16Jan2025 01:26:20.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=18, z=162} BlockPos{x=-293, y=19, z=162}
+[16Jan2025 01:26:20.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=18, z=162} BlockPos{x=-293, y=19, z=162}
+[16Jan2025 01:26:20.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=18, z=162} BlockPos{x=-293, y=19, z=162}
+[16Jan2025 01:27:36.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=17, z=175} BlockPos{x=-278, y=16, z=174}
