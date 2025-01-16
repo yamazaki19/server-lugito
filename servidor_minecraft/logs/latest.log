@@ -90,3 +90,6 @@
 [16Jan2025 00:25:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Survival Mode]
 [16Jan2025 00:25:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Spectator Mode]
 [16Jan2025 00:25:38.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iLG4: Set own game mode to Survival Mode]
+[16Jan2025 00:29:30.157] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[16Jan2025 00:39:15.229] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[16Jan2025 00:39:16.145] [Server thread/ERROR] [Easy NPC/]: Unable to find valid owner null for HumanoidSlim['entity.easy_npc.humanoid_slim'/229, l='ServerLevel[world]', x=166.30, y=81.00, z=-50.51] with ObjectiveData [id=FOLLOW_OWNER, type=FOLLOW_OWNER, priority=6, targetPlayerName=null, targetEntityUUID=null, targetOwnerUUID=c15390f6-9a1a-4a64-86f3-de1b2e0ed49f, isRegistered=false, speedModifier=0.7, startDistance=16.0, stopDistance=2.0, onlyAtNight=false, distanceToPoi=16, canDealWithDoors=de.markusbordihn.easynpc.data.objective.ObjectiveDataEntry$$Lambda/0x000075e42292aa68@69e428a2, lookDistance=15.0, attackInterval=20, attackRadius=8.0, interval=10, mustSeeTarget=true, probability=1.0]!
