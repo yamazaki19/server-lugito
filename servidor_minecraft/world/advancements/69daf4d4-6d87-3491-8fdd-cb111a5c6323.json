@@ -11168,9 +11168,309 @@
     },
     "done": true
   },
+  "occultism:recipes/miner/miner/ores/lead_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_emerald_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/iesnium_ingot_from_raw": {
     "criteria": {
       "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_coal_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/glowstone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/gold_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/heliodor_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/iolite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_redstone_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/indicolite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/certus_quartz_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iesnium_dust_from_ingot": {
+    "criteria": {
+      "has_iesnium_ingot": "2025-01-16 01:33:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/netherrack": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/iesnium_pickaxe": {
+    "criteria": {
+      "has_iesnium_ingot": "2025-01-16 01:33:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/morganite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/peridot_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/emerald_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/ruby_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/aluminum_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/boron_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/redstone_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/granite": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_iron_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/platinum_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/nickel_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/iesnium_block": {
+    "criteria": {
+      "has_iesnium_ingot": "2025-01-16 01:33:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/master/iesnium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/magma_block": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/andesite": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_gold_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/thorium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/diorite": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/lapis_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/end_stone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/xpetrified_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/copper_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/obsidian": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/nether_quartz_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/mossy_cobblestone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/salt_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/sapphire_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_diamond_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/amethyst_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/stone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/tanzanite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/inferium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/iron_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/malachite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/sulfur_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/prosperity_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/debug_wand": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
     },
     "done": true
   },
@@ -11180,15 +11480,249 @@
     },
     "done": true
   },
+  "occultism:recipes/miner/miner/ores/uranium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/magnesium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/clay": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/zinc_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/amber_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/aquamarine_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/opal_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/dimensional_shard_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/garnet_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/coal_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_silver_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/nether_gold_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/topaz_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/arcane_crystal": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/cinnabar_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/agate_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/iesnium_nugget": {
+    "criteria": {
+      "has_iesnium_ingot": "2025-01-16 01:33:12 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iesnium_dust_from_raw": {
     "criteria": {
       "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
     },
     "done": true
   },
+  "occultism:recipes/miner/miner/ores/niter_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/tin_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/cobalt_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/mithril_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/silver_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/otherstone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/master/ancient_debris": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/sky_stone_block": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/electrotine_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/lithium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/raw_iesnium_block": {
     "criteria": {
       "has_raw_iesnium": "2025-01-16 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_copper_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/diamond_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/deeps/deepslate_lapis_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/osmium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/ardite_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/gravel": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/basic_resources/mossy_stone_bricks": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/onyx_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/runic_stone": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/draconium_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/tungsten_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/miner/miner/ores/beryl_ore": {
+    "criteria": {
+      "has_miner": "2025-01-16 01:33:36 +0000"
     },
     "done": true
   },
