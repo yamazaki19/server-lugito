@@ -10976,6 +10976,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iesnium_dust": {
+    "criteria": {
+      "has_iesnium": "2025-01-16 01:08:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-16 01:04:13 +0000"
@@ -11126,6 +11132,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/iesnium_ingot": {
+    "criteria": {
+      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-16 00:24:52 +0000"
@@ -11135,6 +11147,12 @@
   "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-16 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iesnium_ingot": {
+    "criteria": {
+      "has_iesnium_ore": "2025-01-16 01:08:57 +0000"
     },
     "done": true
   },
