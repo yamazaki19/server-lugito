@@ -1,7 +1,7 @@
 {
   "Version": 210,
-  "Gore": true,
-  "onlyknifedrops": false,
+  "Gore": false,
+  "onlyknifedrops": true,
   "CowLeatherDropQty": 1,
   "CowProcess1DropQty": 1,
   "CowProcess2DropQty": 1,

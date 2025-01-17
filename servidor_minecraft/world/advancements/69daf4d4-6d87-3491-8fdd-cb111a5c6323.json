@@ -11210,6 +11210,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-01-16 01:43:49 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/miner/miner/ores/iolite_ore": {
     "criteria": {
       "has_miner": "2025-01-16 01:33:35 +0000"
